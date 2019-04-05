@@ -1,0 +1,54 @@
+h1 {
+    color: orangered;
+    font-family: 'Lato', sans-serif; font-size: 54px; font-weight: 300; line-height: 58px; margin: 0 0 58px; }
+
+
+p { color: #adb7bd; font-family: 'Lucida Sans', Arial, sans-serif; font-size: 16px; line-height: 26px; text-indent: 30px; margin: 0; }
+
+.date { background: #fe921f; color: #ffffff; display: inline-block; font-family: 'Lato', sans-serif; font-size: 12px; font-weight: bold; line-height: 12px; letter-spacing: 1px; margin: 0 0 30px; padding: 10px 15px 8px; text-transform: uppercase; }
+
+.back{
+    background-color: #282c34;
+}
+
+td{
+    font-weight: bold;
+    font-family: "Times New Roman";
+
+
+}
+
+.separate{
+    width: 100%;
+    height: 10px;
+    border-style: solid;
+    background-color: white;
+}
+
+.profiles_img{
+    border-bottom-color: #4CAF50;
+
+}
+
+
+#profiles_back{
+    border-bottom-width: 10px;
+    border-bottom-color: red;
+    border-style: outset;
+    background-color: #282c34;
+    width:300px;
+
+    }
+
+#white{
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+
+#info_of_profile{
+    color: white;
+    font-size: larger;
+    font-family: "Arial Narrow";
+    font-style: italic;
+}
